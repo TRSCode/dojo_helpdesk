@@ -1,3 +1,19 @@
+### This is a video code along 
+- video #1 https://www.youtube.com/watch?v=TJQbDPGzm0Y&t=44s
+- video #2 https://www.youtube.com/watch?v=YEG2_fSJswc 
+- video #3 https://www.youtube.com/watch?v=vwg4Wrk-kWE
+- video #4 https://www.youtube.com/watch?v=R7A5vBDfZ18
+- video #5 https://www.youtube.com/watch?v=oWUQQD97Rz0
+- video #6 https://www.youtube.com/watch?v=PAXWRgEo7Ns
+- video #7 https://www.youtube.com/watch?v=ZwajQ9ywgIU&t=6s
+- video #8 https://www.youtube.com/watch?v=ihmyC4Ei2zY&t=9s
+- video #9 https://www.youtube.com/watch?v=PbFH_VE1Iks
+- full course https://netninja.dev/courses/next-13-masterclass/lectures/48541139
+
+## gitHub repo
+- change branch to appropriate lesson
+- https://github.com/iamshaunjp/nextjs-masterclass/blob/lesson-6/_data/db.json
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
