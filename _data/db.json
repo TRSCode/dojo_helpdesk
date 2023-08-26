@@ -41,6 +41,13 @@
       "user_email": "luigi@netninja.dev",
       "priority": "high",
       "id": "lUpIa18"
+    },
+    {
+      "title": "reverted",
+      "body": "returned to lesson 31 setting with exception of installs",
+      "priority": "low",
+      "user_email": "mario@netninja.dev",
+      "id": "4M5yD8w"
     }
   ]
 }
